@@ -1,7 +1,7 @@
 
 Criar nova skill
 * Clicar em "Create Skill"
-* Adicionar um nome para a skill
+* Adicionar um nome para "ImplicitGrantLogin"
 * Selecionar o modelo "Custom"
 * Selecionar a opção "Alexa-hosted (Python)"
 * Clicar em "Create Skill"
